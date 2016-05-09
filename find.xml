@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/anas/projects/sharkfish-server/api/controllers/AnalysisController.js'" />
+    <option name="defaultScopeName" value="File '/Users/anas/projects/sharkfish-server/api/controllers/AnalysisController.js'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/anas/projects/sharkfish-server/api/controllers/AnalysisController.js'" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="Vagrantfile" type="Bash" />
+      <mapping pattern="release" type="Bash" />
+      <mapping pattern="compile" type="Bash" />
+      <mapping ext="scss" type="CSS" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".plugins" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern=".plugins_urls" type="PLAIN_TEXT" />
+      <mapping pattern="compile.sh" type="PLAIN_TEXT" />
+      <mapping pattern="Aptfile" type="PLAIN_TEXT" />
+      <mapping ext="suo" type="PLAIN_TEXT" />
+      <mapping ext="zwc" type="PLAIN_TEXT" />
+      <mapping ext="heapsnapshot" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <removed_mapping ext="scss" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>
